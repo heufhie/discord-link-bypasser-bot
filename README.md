@@ -14,3 +14,7 @@ in the discord server the bot is in enter !bypass (then put the link here you wa
 
  if you have any issues dm zeven.7 or proudhomophobe on discord
 
+
+
+also thanks to bypass.vip for the api
+
